@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../Starter file - Travelia"
+	},
+	{
+		"path": "../../../Footcap"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Starter file - Foodie"
+  }
+}
